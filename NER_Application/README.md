@@ -1,1 +1,1 @@
-#Web application to display Name entities, with Spacy and streamlit.
+Web application to display Name entities, with Spacy and streamlit.
